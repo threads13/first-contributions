@@ -33,6 +33,7 @@
 - [Justin Marshall](https://github.com/JustinMarshall970)
 - eaguy
 - [Courtney Adams](https://github.com/cadams8238)
+- [Jacob Hoke](https://github.com/threads13)
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
 - [Cameron Brill](https://github.com/gaiscioch)
 - [Durval Carvalho de Souza](https://github.com/durvalcarvalho)
